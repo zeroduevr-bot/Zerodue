@@ -1,0 +1,5 @@
+{
+  "name": "Offline OCR Pipeline Guide",
+  "description": "A comprehensive guide to building a high-accuracy, fully offline PDF-to-CSV OCR pipeline using Python and powerful open-source libraries.",
+  "requestFramePermissions": []
+}
